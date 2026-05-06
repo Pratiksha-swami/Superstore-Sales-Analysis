@@ -1,7 +1,8 @@
 
 
 # 📊 Superstore Sales Analysis Dashboard
-![Dashboard](https://github.com/user-attachments/assets/9d3ef8f8-fe4d-4b4a-97db-40437cfe91c5)
+![Dashboard](https://github.com/user-attachments/assets/aaf44d08-8344-4c35-b2a0-813d6b3e9b26)
+
 
 📊 Superstore Sales Analysis
 
