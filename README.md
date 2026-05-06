@@ -1,4 +1,10 @@
+
+
+# 📊 Superstore Sales Analysis Dashboard
+![Dashboard](https://github.com/user-attachments/assets/9d3ef8f8-fe4d-4b4a-97db-40437cfe91c5)
+
 📊 Superstore Sales Analysis
+
 🔍 Project Overview
 
 This project focuses on analyzing sales data to identify trends, patterns, and key business insights that can support decision-making.
@@ -35,4 +41,3 @@ Dataset
 
 This project demonstrates how data can be transformed into meaningful insights to support business decisions.
 
-![Dashboard](https://github.com/user-attachments/assets/9d3ef8f8-fe4d-4b4a-97db-40437cfe91c5)
