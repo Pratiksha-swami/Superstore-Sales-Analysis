@@ -35,4 +35,4 @@ Dataset
 
 This project demonstrates how data can be transformed into meaningful insights to support business decisions.
 
-
+![Dashboard](https://github.com/user-attachments/assets/9d3ef8f8-fe4d-4b4a-97db-40437cfe91c5)
